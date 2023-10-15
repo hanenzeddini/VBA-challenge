@@ -1,6 +1,6 @@
 # VBA-challenge
 This Assignment created by: Hanen Zeddini on Friday, October 13, 2023. 
-The Location of the source code: VBA Scripts
+The Location of the source code: VBA_Scripts.rtf
 ***************** The source code Description **************
 The source code is composed with the following two Subs: 
 1- Analyse: Calculates the analysis in the entire worksheet.
